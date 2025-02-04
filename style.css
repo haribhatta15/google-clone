@@ -19,7 +19,7 @@ body {
     flex-direction: column;
 }
 
-/* Header */
+/* Header ................................................ */
 header {
     height: 60px;
 }
@@ -81,7 +81,7 @@ header {
     line-height: 30px;
 }
 
-/* Content */
+/* Content ..................................... */
 .content-section {
     flex-grow: 1;
     display: flex;
@@ -175,7 +175,7 @@ header {
     text-decoration: underline;
 }
 
-/* Footer */
+/* Footer .................................................... */
 footer {
     background-color: #F2F2F2;
     height: 100px;
@@ -229,7 +229,7 @@ footer {
     margin-left: 15px;
 }
 
-/* Mobile and Tablet */
+/* Mobile and Tablet ...................................................................................*/
 @media only screen and (max-width: 650px) {
     /* Navbar */
     .navbar ul {
